@@ -9,6 +9,7 @@
   
   background:red;
   height:200px;
+  width:100%;
   }
   
   </style>

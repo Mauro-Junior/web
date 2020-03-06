@@ -10,7 +10,7 @@
   background:red;
   height:200px;
   width:1000px;
-  box-shadow: 10px 10px 10px black;
+ box-shadow: 0px 15px 10px -15px #111;    
    position:absolute;
   }
   

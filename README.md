@@ -9,7 +9,7 @@
   
   background:red;
   height:200px;
-  width:100%;
+  width:900px%;
   box-shadow: 10px 10px 10px black;
    position:absolute;
   }

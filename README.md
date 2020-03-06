@@ -11,13 +11,14 @@
   height:200px;
   width:100%;
   box-shadow: 10px 10px 10px black;
+   position:absolute;
   }
   
   .conteudo{
   width:100%;
   height:800px;
   background: green;
-  position:absolute;
+ 
   }
   
   </style>

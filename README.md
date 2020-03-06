@@ -16,7 +16,7 @@
   .conteudo{
   width:100%;
   height:800px;
-  background green;
+  background: green;
   
   }
   

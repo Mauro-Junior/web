@@ -9,13 +9,13 @@
   
   background:red;
   height:200px;
-  width:1200px;
+  width:1000px;
   box-shadow: 10px 10px 10px black;
    position:absolute;
   }
   
   .conteudo{
-  width:100%;
+  width:1000%;
   height:800px;
   background: green;
  

@@ -7,7 +7,7 @@
   
   .topo{
   
-  background:white;
+  background:#fffafa;
   border: solid 1px black;
   height:200px;
   width:1000px;

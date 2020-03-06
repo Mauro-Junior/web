@@ -17,7 +17,7 @@
   width:100%;
   height:800px;
   background: green;
-  
+  position:absolute;
   }
   
   </style>

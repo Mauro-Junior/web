@@ -7,7 +7,8 @@
   
   .topo{
   
-  background:red;
+  background:white;
+  border: solid 1px black;
   height:200px;
   width:1000px;
  box-shadow: 0px 15px 10px -15px #111;    

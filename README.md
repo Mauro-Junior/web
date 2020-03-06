@@ -7,8 +7,8 @@
   
   .topo{
   
-  background:#fffafa;
-  border: solid 1px black;
+  background:#e9e3ce;
+  border: solid 1px gold;
   height:200px;
   width:1000px;
  box-shadow: 0px 15px 10px -15px #111;    
@@ -18,7 +18,7 @@
   .conteudo{
   width:1000px;
   height:800px;
-  background: green;
+  background:#fffafa;
  
   }
   
